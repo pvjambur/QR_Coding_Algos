@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="72" viewBox="0 0 360 72">
+  <rect width="360" height="72" fill="none"/>
+  <text font-family="Georgia,'Times New Roman',serif" font-size="13" fill="white" x="4" y="40">P(Full House) =</text>
+  <text font-family="Georgia,'Times New Roman',serif" font-size="13" fill="white" x="148" y="22">C(13,1) &#x00B7; C(4,3) &#x00B7; C(12,1) &#x00B7; C(4,2)</text>
+  <line x1="144" y1="30" x2="354" y2="30" stroke="white" stroke-width="1.2"/>
+  <text font-family="Georgia,'Times New Roman',serif" font-size="13" fill="white" x="220" y="54">C(52, 5)</text>
+</svg>
