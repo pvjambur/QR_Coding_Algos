@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="290" height="65" viewBox="0 0 290 65">
+  <rect width="290" height="65" fill="none"/>
+  <text font-family="Georgia,'Times New Roman',serif" font-size="15" fill="white" x="5" y="38" text-anchor="start">C(n+k&#x2212;1, k) =</text>
+  <text font-family="Georgia,'Times New Roman',serif" font-size="15" fill="white" x="190" y="22" text-anchor="start">(n+k&#x2212;1)!</text>
+  <line x1="176" y1="30" x2="285" y2="30" stroke="white" stroke-width="1.2"/>
+  <text font-family="Georgia,'Times New Roman',serif" font-size="15" fill="white" x="192" y="52" text-anchor="start">k!(n&#x2212;1)!</text>
+</svg>

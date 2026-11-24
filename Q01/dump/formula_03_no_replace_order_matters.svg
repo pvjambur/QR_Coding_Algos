@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="65" viewBox="0 0 230 65">
+  <rect width="230" height="65" fill="none"/>
+  <text font-family="Georgia,'Times New Roman',serif" font-size="15" fill="white" x="5" y="38" text-anchor="start">nPk =</text>
+  <text font-family="Georgia,'Times New Roman',serif" font-size="15" fill="white" x="118" y="22" text-anchor="start">n!</text>
+  <line x1="104" y1="30" x2="210" y2="30" stroke="white" stroke-width="1.2"/>
+  <text font-family="Georgia,'Times New Roman',serif" font-size="15" fill="white" x="104" y="52" text-anchor="start">(n&#x2212;k)!</text>
+</svg>

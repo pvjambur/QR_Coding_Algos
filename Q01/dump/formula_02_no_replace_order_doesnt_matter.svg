@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="72" viewBox="0 0 260 72">
+  <rect width="260" height="72" fill="none"/>
+  <text font-family="Georgia,'Times New Roman',serif" font-size="52" fill="white" x="8" y="62" text-anchor="start">(</text>
+  <text font-family="Georgia,'Times New Roman',serif" font-size="17" fill="white" x="34" y="30" text-anchor="start">n</text>
+  <text font-family="Georgia,'Times New Roman',serif" font-size="17" fill="white" x="34" y="57" text-anchor="start">k</text>
+  <text font-family="Georgia,'Times New Roman',serif" font-size="52" fill="white" x="54" y="62" text-anchor="start">)</text>
+  <text font-family="Georgia,'Times New Roman',serif" font-size="17" fill="white" x="82" y="46" text-anchor="start">=</text>
+  <text font-family="Georgia,'Times New Roman',serif" font-size="15" fill="white" x="120" y="28" text-anchor="start">n!</text>
+  <line x1="104" y1="36" x2="220" y2="36" stroke="white" stroke-width="1.2"/>
+  <text font-family="Georgia,'Times New Roman',serif" font-size="15" fill="white" x="104" y="56" text-anchor="start">k!(n&#x2212;k)!</text>
+</svg>
